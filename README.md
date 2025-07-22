@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @jaydipbharadava2001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🎓 Completed my MCA with hands-on project experience in web development, backend APIs, and database-driven applications.
 
-<!---
-jaydipbharadava2001/jaydipbharadava2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Actively exploring job opportunities in full-stack development, backend development, or WordPress/Shopify development roles.
+
+🔧 Tech Skills:
+• Programming Languages: C/C++, Java, Python, PHP, JavaScript
+• Web Technologies: HTML5, CSS3, Bootstrap, Laravel, ASP.NET Core MVC
+• CMS & Platforms: WordPress, Shopify
+• Databases: MySQL, SQL Server
+• Tools & Concepts: RDBMS, REST APIs, Git, Visual Studio
+
+📌 Currently enhancing my skills through real-world projects, contributions, and certifications.
+🚀 Eager to bring fresh ideas, strong work ethic, and tech enthusiasm to a growth-focused team.
+
